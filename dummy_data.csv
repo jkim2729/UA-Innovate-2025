@@ -1,0 +1,174 @@
+,Amount,Date,Name,Merchant Name,Category
+0,139.45,2024-01-01,John Doe,Walmart,Groceries
+1,162.93,2024-01-01,John Doe,Fanduel,Entertainment
+2,87.09,2024-01-02,John Doe,Draftkings,Entertainment
+3,23.33,2024-01-02,John Doe,Olive Garden,Dining
+4,192.32,2024-01-02,John Doe,Whole Foods,Groceries
+5,38.0,2024-01-03,John Doe,Fanduel,Entertainment
+6,70.26,2024-01-03,John Doe,Nike,Shopping
+7,143.36,2024-01-04,John Doe,McDonald's,Dining
+8,198.49,2024-01-04,John Doe,Comcast,Utilities
+9,22.22,2024-01-04,John Doe,Draftkings,Entertainment
+10,187.78,2024-01-05,John Doe,Discover,Debt
+11,135.83,2024-01-05,John Doe,AT&T,Utilities
+12,150.04,2024-01-06,John Doe,BP,Transportation
+13,136.66,2024-01-06,John Doe,BP,Transportation
+14,27.97,2024-01-06,John Doe,Nike,Shopping
+15,157.32,2024-01-07,John Doe,Duke Energy,Utilities
+16,147.29,2024-01-08,John Doe,Discover,Debt
+17,51.86,2024-01-08,John Doe,McDonald's,Dining
+18,61.97,2024-01-09,John Doe,PG&E,Utilities
+19,158.14,2024-01-10,John Doe,BP,Transportation
+20,127.44,2024-01-10,John Doe,Discover,Debt
+21,171.47,2024-01-11,John Doe,Mastercard,Debt
+22,125.26,2024-01-11,John Doe,Olive Garden,Dining
+23,123.49,2024-01-11,John Doe,Nike,Shopping
+24,124.33,2024-01-12,John Doe,Starbucks,Dining
+25,29.75,2024-01-12,John Doe,Discover,Debt
+26,38.55,2024-01-13,John Doe,Safeway,Groceries
+27,123.44,2024-01-13,John Doe,Chipotle,Dining
+28,93.9,2024-01-14,John Doe,Mastercard,Debt
+29,23.02,2024-01-14,John Doe,Olive Garden,Dining
+30,10.4,2024-01-14,John Doe,ExxonMobil,Transportation
+31,62.42,2024-01-15,John Doe,Draftkings,Entertainment
+32,139.01,2024-01-16,John Doe,Best Buy,Shopping
+33,161.17,2024-01-17,John Doe,Uber,Transportation
+34,93.32,2024-01-17,John Doe,Mastercard,Debt
+35,159.02,2024-01-17,John Doe,Walmart,Groceries
+36,144.11,2024-01-18,John Doe,Subway,Dining
+37,44.31,2024-01-19,John Doe,Best Buy,Shopping
+38,88.21,2024-01-19,John Doe,Apple Store,Shopping
+39,162.84,2024-01-19,John Doe,AT&T,Utilities
+40,77.79,2024-01-20,John Doe,Discover,Debt
+41,193.68,2024-01-20,John Doe,Amazon,Shopping
+42,114.41,2024-01-21,John Doe,McDonald's,Dining
+43,80.06,2024-01-22,John Doe,Car,Debt
+44,148.27,2024-01-22,John Doe,BET365,Entertainment
+45,73.25,2024-01-22,John Doe,Car,Debt
+46,135.8,2024-01-23,John Doe,Apple Store,Shopping
+47,22.42,2024-01-24,John Doe,Discover,Debt
+48,183.97,2024-01-24,John Doe,Fanduel,Entertainment
+49,177.59,2024-01-25,John Doe,Duke Energy,Utilities
+50,40.39,2024-01-25,John Doe,Comcast,Utilities
+51,116.72,2024-01-26,John Doe,ExxonMobil,Transportation
+52,192.04,2024-01-26,John Doe,Verizon,Utilities
+53,154.32,2024-01-27,John Doe,Safeway,Groceries
+54,66.49,2024-01-28,John Doe,AT&T,Utilities
+55,127.27,2024-01-28,John Doe,Whole Foods,Groceries
+56,181.62,2024-01-28,John Doe,ExxonMobil,Transportation
+57,142.48,2024-01-29,John Doe,Verizon,Utilities
+58,143.22,2024-01-29,John Doe,Whole Foods,Groceries
+59,168.11,2024-01-30,John Doe,Starbucks,Dining
+60,114.78,2024-01-31,John Doe,Verizon,Utilities
+61,100.92,2025-01-01,John Doe,Fanduel,Entertainment
+62,180.17,2025-01-01,John Doe,Trader Joe's,Groceries
+63,80.28,2025-01-01,John Doe,Walmart,Groceries
+64,185.2,2025-01-02,John Doe,BP,Transportation
+65,103.54,2025-01-02,John Doe,Duke Energy,Utilities
+66,183.88,2025-01-03,John Doe,Fanduel,Entertainment
+67,195.14,2025-01-04,John Doe,ExxonMobil,Transportation
+68,75.76,2025-01-05,John Doe,BP,Transportation
+69,33.48,2025-01-05,John Doe,Trader Joe's,Groceries
+70,120.94,2025-01-06,John Doe,Subway,Dining
+71,98.3,2025-01-07,John Doe,Amazon,Shopping
+72,162.74,2025-01-07,John Doe,Walmart,Groceries
+73,90.47,2025-01-08,John Doe,Chipotle,Dining
+74,178.95,2025-01-09,John Doe,Walmart,Groceries
+75,102.15,2025-01-10,John Doe,BP,Transportation
+76,108.49,2025-01-11,John Doe,Best Buy,Shopping
+77,191.23,2025-01-11,John Doe,Comcast,Utilities
+78,19.42,2025-01-11,John Doe,Trader Joe's,Groceries
+79,152.25,2025-01-12,John Doe,Lyft,Transportation
+80,195.1,2025-01-13,John Doe,Olive Garden,Dining
+81,189.78,2025-01-14,John Doe,Comcast,Utilities
+82,139.45,2025-01-14,John Doe,Fanduel,Entertainment
+83,182.17,2025-01-14,John Doe,Olive Garden,Dining
+84,182.43,2025-01-15,John Doe,Apple Store,Shopping
+85,6.69,2025-01-16,John Doe,Car,Debt
+86,34.15,2025-01-16,John Doe,BP,Transportation
+87,49.19,2025-01-16,John Doe,Discover,Debt
+88,54.11,2025-01-17,John Doe,Kroger,Groceries
+89,29.75,2025-01-18,John Doe,Olive Garden,Dining
+90,177.54,2025-01-19,John Doe,Comcast,Utilities
+91,102.81,2025-01-19,John Doe,Uber,Transportation
+92,22.47,2025-01-20,John Doe,Amazon,Shopping
+93,52.88,2025-01-20,John Doe,Nike,Shopping
+94,54.04,2025-01-21,John Doe,Uber,Transportation
+95,49.0,2025-01-21,John Doe,AT&T,Utilities
+96,106.17,2025-01-21,John Doe,ExxonMobil,Transportation
+97,92.04,2025-01-22,John Doe,Car,Debt
+98,41.03,2025-01-22,John Doe,Trader Joe's,Groceries
+99,43.39,2025-01-22,John Doe,Amazon,Shopping
+100,159.53,2025-01-23,John Doe,Verizon,Utilities
+101,50.92,2025-01-23,John Doe,Mastercard,Debt
+102,47.83,2025-01-23,John Doe,Target,Shopping
+103,151.44,2025-01-24,John Doe,Kroger,Groceries
+104,106.04,2025-01-24,John Doe,BET365,Entertainment
+105,197.43,2025-01-24,John Doe,McDonald's,Dining
+106,164.9,2025-01-25,John Doe,Subway,Dining
+107,197.73,2025-01-26,John Doe,Verizon,Utilities
+108,32.64,2025-01-27,John Doe,BET365,Entertainment
+109,35.13,2025-01-27,John Doe,Car,Debt
+110,154.71,2025-01-27,John Doe,Amazon,Shopping
+111,71.29,2025-01-28,John Doe,Lyft,Transportation
+112,27.03,2025-01-28,John Doe,Car,Debt
+113,61.07,2025-01-28,John Doe,Verizon,Utilities
+114,170.17,2025-01-29,John Doe,Fanduel,Entertainment
+115,126.13,2025-01-29,John Doe,Olive Garden,Dining
+116,69.54,2025-01-29,John Doe,Safeway,Groceries
+117,21.31,2025-01-30,John Doe,Kroger,Groceries
+118,103.4,2025-01-31,John Doe,Mastercard,Debt
+119,103.8,2025-02-01,John Doe,Comcast,Utilities
+120,163.45,2025-02-01,John Doe,Comcast,Utilities
+121,149.68,2025-02-01,John Doe,Whole Foods,Groceries
+122,84.94,2025-02-02,John Doe,Verizon,Utilities
+123,27.23,2025-02-03,John Doe,Lyft,Transportation
+124,106.01,2025-02-03,John Doe,BP,Transportation
+125,143.63,2025-02-03,John Doe,Car,Debt
+126,5.91,2025-02-04,John Doe,Trader Joe's,Groceries
+127,151.83,2025-02-04,John Doe,Amazon,Shopping
+128,195.29,2025-02-05,John Doe,Comcast,Utilities
+129,193.72,2025-02-05,John Doe,Kroger,Groceries
+130,178.01,2025-02-05,John Doe,Draftkings,Entertainment
+131,127.92,2025-02-06,John Doe,Nike,Shopping
+132,174.77,2025-02-06,John Doe,Car,Debt
+133,161.97,2025-02-07,John Doe,Chipotle,Dining
+134,119.96,2025-02-07,John Doe,BP,Transportation
+135,23.88,2025-02-08,John Doe,Mastercard,Debt
+136,71.29,2025-02-08,John Doe,Nike,Shopping
+137,71.5,2025-02-09,John Doe,BET365,Entertainment
+138,16.93,2025-02-09,John Doe,Chipotle,Dining
+139,188.99,2025-02-09,John Doe,Chipotle,Dining
+140,12.05,2025-02-10,John Doe,Shell,Transportation
+141,20.49,2025-02-11,John Doe,AT&T,Utilities
+142,102.72,2025-02-12,John Doe,Fanduel,Entertainment
+143,17.34,2025-02-12,John Doe,ExxonMobil,Transportation
+144,199.83,2025-02-12,John Doe,Discover,Debt
+145,185.96,2025-02-13,John Doe,Chipotle,Dining
+146,59.8,2025-02-14,John Doe,Uber,Transportation
+147,86.58,2025-02-14,John Doe,Safeway,Groceries
+148,94.33,2025-02-15,John Doe,Trader Joe's,Groceries
+149,94.98,2025-02-15,John Doe,Verizon,Utilities
+150,55.99,2025-02-16,John Doe,AT&T,Utilities
+151,108.66,2025-02-16,John Doe,Target,Shopping
+152,110.14,2025-02-17,John Doe,Olive Garden,Dining
+153,126.82,2025-02-17,John Doe,BET365,Entertainment
+154,135.73,2025-02-18,John Doe,Discover,Debt
+155,21.51,2025-02-18,John Doe,Amazon,Shopping
+156,68.8,2025-02-19,John Doe,Chipotle,Dining
+157,66.86,2025-02-19,John Doe,Duke Energy,Utilities
+158,34.3,2025-02-20,John Doe,Walmart,Groceries
+159,75.78,2025-02-20,John Doe,Walmart,Groceries
+160,53.94,2025-02-20,John Doe,Discover,Debt
+161,145.43,2025-02-21,John Doe,Safeway,Groceries
+162,164.76,2025-02-22,John Doe,Safeway,Groceries
+163,90.03,2025-02-23,John Doe,Mastercard,Debt
+164,102.52,2025-02-23,John Doe,Fanduel,Entertainment
+165,41.61,2025-02-23,John Doe,Fanduel,Entertainment
+166,34.53,2025-02-24,John Doe,Chipotle,Dining
+167,107.78,2025-02-24,John Doe,Amazon,Shopping
+168,118.09,2025-02-25,John Doe,Draftkings,Entertainment
+169,78.5,2025-02-25,John Doe,Walmart,Groceries
+170,151.7,2025-02-26,John Doe,Duke Energy,Utilities
+171,98.16,2025-02-27,John Doe,Draftkings,Entertainment
+172,36.08,2025-02-28,John Doe,AT&T,Utilities
